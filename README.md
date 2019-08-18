@@ -12,4 +12,4 @@ Here GccApplication1 containing UART code for ATmega128.
 
 SPI is used to confrigure ps2 controller with ATmega128 and then for receiving data for ps2.
 
-Here we connect two 12v motors with PORTA using Cytron motor driver. We are using differntial drive for drive bot.
+Here we connect two 12v motors with PORTA using Cytron motor driver. We are using differntial drive for driveing the bot.
