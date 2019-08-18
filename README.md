@@ -6,6 +6,7 @@ And as apart of this project, we are using 2 communication protocol UART and SPI
 # UART_Communication
 
 UART communication is used if we use wireless PS2 controller.
+Here GccApplication 3 containing UART code for ATmega128. 
 
 # SPI_Protocol
 
